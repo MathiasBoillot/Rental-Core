@@ -1,0 +1,7 @@
+5
+plates;marque;modele;millesime;kilometrage;categorie;prix;gearbox
+CD-584-AA;Fiat;500;2018;20123;A;10000.00;0
+BE-436-TP;Renault;espace;2018;43270;C012;15000.00;1
+BC-123-VE;Citroen;c5;2018;62234;C;10000.00;0
+AB-789-CC;Volkswagen;up;2017;25432;A012;12000.00;1
+-BB;Renault;clio;2017;56789;B;9000.00;0
